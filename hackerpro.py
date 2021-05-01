@@ -7,7 +7,7 @@
 # |  __  |/ _` |/ __| |/ / _ \ '__| |  ___/ '__/ _ \ 
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
-#          Hacking Tools by-Technical Dada
+#          Hacking Tools by-QatrixQuantum
 
 import sys
 import argparse
@@ -44,7 +44,7 @@ def menu():
     print ("""
 MIT License
 
-Copyright (c) 2018 HACKERPRO
+Copyright (c) 2021 QatrixQuantum
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -82,12 +82,13 @@ no = set(['no', 'n'])
 def logo():
     print """
                            - Powered by
-  _______        _           _           _   _____            _       
- |__   __|      | |         (_)         | | |  __ \          | |      
-    | | ___  ___| |__  _ __  _  ___ __ _| | | |  | | __ _  __| | __ _ 
-    | |/ _ \/ __| '_ \| '_ \| |/ __/ _` | | | |  | |/ _` |/ _` |/ _` |
-    | |  __/ (__| | | | | | | | (_| (_| | | | |__| | (_| | (_| | (_| |
-    |_|\___|\___|_| |_|_| |_|_|\___\__,_|_| |_____/ \__,_|\__,_|\__,_|
+  _________    _________
+ | |     | |  | |     | |
+ | |     | |  | |     | |
+ | |    _| |  | |    _| |
+ | |____\ \|  | |____\ \|
+ |_______\_\  |_______\_\ 
+    
 """
 
 
@@ -99,7 +100,7 @@ HACKERPROlogo = """\033[0m
  | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
  |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
       
-            ~Tools For Hacking by by-Technical Dada
+            ~Tools For Hacking by by-QatrixQuantum
 
 \033[91m"""
 def menu():
@@ -149,7 +150,7 @@ def updatehackerpro():
     print ("This Tool is Only Available for Linux and Similar Systems. ")
     choiceupdate = raw_input("Continue Y / N: ")
     if choiceupdate in yes:
-        os.system("git clone https://github.com/technicaldada/hackerpro.git")
+        os.system("git clone https://github.com/QatrixQuantum/hackerpro.git")
         os.system("cd hackerpro && sudo bash ./update.sh")
         os.system("hackerpro")
 
