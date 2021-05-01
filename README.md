@@ -95,7 +95,7 @@
 
 ## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/jaykali/hackerpro.git```
+Open Terminal and Type : ```git clone https://github.com/QatrixQuantum/hackerpro.git```
 
 After Downloading The File Type : ```sudo cd hackerpro && sudo python2 hackerpro.py```
 
@@ -108,7 +108,7 @@ Video Tutorial : Coming Soon
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
-After That Open Termux and Type : ```git clone https://github.com/jaykali/hackerpro.git```
+After That Open Termux and Type : ```git clone https://github.com/QatrixQuantum/hackerpro.git```
 
 Then Type : ```cd hackerpro && python2 hackerpro.py```
 
@@ -116,14 +116,14 @@ Video Tutorial : Coming Soon
 
 ## License :
 
-[MIT Licence](https://github.com/jaykali/hackerpro/blob/master/LICENSE)
+[MIT Licence](https://github.com/QatrixQuantum/hackerpro/blob/master/LICENSE)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
+& Don't Forget To Visit Our [Blog](http://www.heimanbotz.tk) !!!
 
 ***Thankyou.***
 ***Keep Visiting..***
-***Check our blog https://www.kalilinux.in***
+***Check our blog https://www.heimanbotz.tk***
 ***Enjoy.!!! :)***
-<a href="https://www.kalilinux.in/" rel="dofollwo">Click Here</a>
+<a href="https://www.heimanbotz.tk/" rel="dofollwo">Click Here</a>
