@@ -5,7 +5,7 @@
 # |  __  |/ _` |/ __| |/ / _ \ '__| |  ___/ '__/ _ \ 
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
-#          Hacking Tools by-Heiman BotZ
+#          Hacking Tools by-QatrixQuantum
 
 clear
 
