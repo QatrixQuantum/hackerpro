@@ -5,7 +5,7 @@
 # |  __  |/ _` |/ __| |/ / _ \ '__| |  ___/ '__/ _ \ 
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
-#          Hacking Tools by-Technical Dada
+#          Hacking Tools by-Heiman BotZ
 
 clear
 
@@ -37,7 +37,7 @@ cd technicaldada
 
 clear
 
-git clone https://github.com/technicaldada/hackerpro.git
+git clone https://github.com/QatrixQuantum/hackerpro.git
 
 clear
 
