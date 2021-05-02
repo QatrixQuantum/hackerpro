@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/jaykali/hackerpro.svg)](https://github.com/technicaldada/jaykali/issues)
-[![GitHub forks](https://img.shields.io/github/forks/jaykali/hackerpro.svg)](https://github.com/jaykali/hackerpro/network)
-[![GitHub stars](https://img.shields.io/github/stars/jaykali/hackerpro.svg)](https://github.com/jaykali/hackerpro/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/QatrixQuantum/hackerpro.svg)](https://telegram.dog/QatrixQuantum/)
+[![GitHub forks](https://img.shields.io/github/forks/QatrixQuantum/hackerpro.svg)](https://github.com/QatrixQuantum/hackerpro/network)
+[![GitHub stars](https://img.shields.io/github/stars/QatrixQuantum/hackerpro.svg)](https://github.com/QatrixQuantum/hackerpro/stargazers)
 
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
  <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
